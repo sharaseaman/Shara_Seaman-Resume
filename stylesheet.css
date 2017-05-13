@@ -1,0 +1,109 @@
+div {
+	border-radius: ;
+}
+
+
+#name {
+	text-align: center;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+}
+
+.resume{
+  margin: auto;
+  width: 70%;
+  padding-bottom: 40px;
+
+}
+
+.leftaddress{
+  float: left;
+	margin-left: 20em;
+}
+
+.rightaddress{
+  float: right;
+	margin-top: 30px;
+	margin-right: 20em;
+
+}
+
+.clearfix{
+  clear: both;
+}
+
+.rightimage{
+  float: right;
+}
+
+.leftimage{
+	float: left;
+	padding-right: 10px;
+}
+#hershey{
+  margin-top:
+  margin-right:
+
+}
+
+#maui{
+	margin-top:
+	margin-right:
+}
+
+#portland{
+	margin-top:
+	margin-right:
+}
+#seattle{
+	margin-top:
+	margin-right:
+}
+#SLO{
+	margin-top: 5px;
+	margin-right:
+}
+#boston{
+	margin-top:
+	margin-right:
+}
+#stpaul{
+	margin-top:
+	margin-right:
+}
+
+#minni{
+	margin-top:
+	margin-right:
+}
+
+img {
+	padding-bottom:
+  padding-top:
+
+}
+
+h3 {
+  text-align: left;
+  margin-bottom: 1px;
+  font-size: 22px;
+	font-family: Verdana, sans-serif;;
+}
+
+
+
+
+h4 {
+	margin-left: 1px;
+	margin-bottom: -8px;
+	font-family: Verdana;
+  font-size: 18px;
+  padding-bottom: 1px;
+}
+span{
+	font-size: 18px;
+	text-decoration: underline;
+
+}
